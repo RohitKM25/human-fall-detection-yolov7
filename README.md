@@ -59,3 +59,7 @@ In conclusion, the Fall Detection project showcases the efficacy of the YOLOv7 m
 - Download the [`yolov7-w6-pose.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt) model for human pose tracking.
 - Run the `main.py` file.
 - Type in the path of the input video file, some sample input videos are provided in the `fall_dataset/videos` folder.
+
+# Fall Detection Implementation with YOLOv8
+
+[`YOLOv8 Fall Detection`](https://github.com/RohitKM25/human-fall-detection-yolov8) implemented with custom pre-trained fall detection model, ensures more accurate results and significantly quicker processing speeds.
