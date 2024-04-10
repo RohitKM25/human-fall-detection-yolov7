@@ -25,7 +25,6 @@ The core of the project revolves around the YOLOv7 model, a state-of-the-art dee
 | 23011102098         | Sree Sai Raghav C |
 | 23011102067         | Pretham Kumar K   |
 | 23011102101         | Srri Hari T R     |
-|                     |                   |
 
 ---
 
